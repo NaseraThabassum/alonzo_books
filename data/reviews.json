@@ -1,0 +1,23 @@
+[
+    {
+        "id": "d63e73b5-f6da-4afd-827b-8e1bab6ded36",
+        "book_id": "6a6095aa-b6ec-4512-9182-f6ead1fa2efa",
+        "reviewer": "string",
+        "rating": 1,
+        "comment": "string"
+    },
+    {
+        "id": "6bb7a1c0-a535-4877-844b-db5444e5dd5b",
+        "book_id": "6a6095aa-b6ec-4512-9182-f6ead1fa2efa",
+        "reviewer": "John Doe",
+        "rating": 4,
+        "comment": "Great book, very informative!"
+    },
+    {
+        "id": "39c49373-8ae5-4c15-8949-eac1df95b05a",
+        "book_id": "6a6095aa-b6ec-4512-9182-f6ead1fa2efa",
+        "reviewer": "Thabassum",
+        "rating": 4,
+        "comment": "Good"
+    }
+]

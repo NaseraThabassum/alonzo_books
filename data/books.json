@@ -1,0 +1,80 @@
+[
+    {
+        "title": "string",
+        "author": "string",
+        "genre": "string",
+        "price": 0.0,
+        "tags": [
+            "string"
+        ],
+        "published_year": 2020,
+        "isbn": "string",
+        "id": "3b64cb8c-ada1-41ae-96fc-b2944939e2f5",
+        "rating": 0.0
+    },
+    {
+        "title": "Deep Work (Updated)",
+        "author": "Cal Newport",
+        "genre": "Self-Help",
+        "price": 400.0,
+        "tags": [
+            "string"
+        ],
+        "published_year": 2016,
+        "isbn": "9781455586691",
+        "id": "d51c9463-2aa6-4fc4-a3f3-45deee7c199a",
+        "rating": 0.0
+    },
+    {
+        "title": "string",
+        "author": "string",
+        "genre": "string",
+        "price": 0.0,
+        "tags": [
+            "string"
+        ],
+        "published_year": 1000,
+        "isbn": "string",
+        "id": "492510a8-9bf3-4c20-b27d-45ef21e5cbcd",
+        "rating": 0.0
+    },
+    {
+        "title": "Zero to One (Updated Edition)",
+        "author": "Peter Thiel",
+        "genre": "Business",
+        "price": 349.0,
+        "tags": [
+            "string"
+        ],
+        "published_year": 2014,
+        "isbn": "9780804139298",
+        "id": "6a6095aa-b6ec-4512-9182-f6ead1fa2efa",
+        "rating": 3.0
+    },
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic Fiction",
+        "price": 350.0,
+        "tags": [
+            "string"
+        ],
+        "published_year": 1925,
+        "isbn": "9780743273565",
+        "id": "a902f18a-0a5f-46fa-af39-79dd561283b6",
+        "rating": 0.0
+    },
+    {
+        "title": "Wings of fire",
+        "author": "Dr APJ Abdul Kalam",
+        "genre": "Motivational",
+        "price": 500.0,
+        "tags": [
+            "string"
+        ],
+        "published_year": 2015,
+        "isbn": "9781234567865",
+        "id": "5c4680f5-4ac7-4949-a955-610d10bd70d3",
+        "rating": 0.0
+    }
+]
